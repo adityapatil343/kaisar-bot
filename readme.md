@@ -29,7 +29,7 @@ This script automates registration, network or node operations and daily claim f
 	```
 
 ## Usage
-1. Register to blockless bless network account first, if you don't have you can register [here](https://zero.kaisar.io/register?ref=SOXdEc181) or you can put email and password that you desire in to automatically register, check next part to do that. 
+1. Register to blockless bless network account first, if you don't have you can register [here](https://zero.kaisar.io/register?ref=juxtor577) or you can put email and password that you desire in to automatically register, check next part to do that. 
 2. Set and Modify `user.txt` with your account data. If you don't have account, you can just put email and password that you want to register and it will automatically register account for you. Put the data in `user.txt` with format like this:
 	```bash
 	email1,password2,proxy1
