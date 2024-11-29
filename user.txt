@@ -1,0 +1,2 @@
+email1,password2,proxy1
+email2,password2,proxy2
